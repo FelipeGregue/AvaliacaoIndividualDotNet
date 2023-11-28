@@ -1,0 +1,15 @@
+/home/felipe-gregue-pires/Área de trabalho/AvaliacaoIndividualDotNet/dotNET-AV/bin/Debug/net7.0/dotNET-AV
+/home/felipe-gregue-pires/Área de trabalho/AvaliacaoIndividualDotNet/dotNET-AV/bin/Debug/net7.0/dotNET-AV.deps.json
+/home/felipe-gregue-pires/Área de trabalho/AvaliacaoIndividualDotNet/dotNET-AV/bin/Debug/net7.0/dotNET-AV.runtimeconfig.json
+/home/felipe-gregue-pires/Área de trabalho/AvaliacaoIndividualDotNet/dotNET-AV/bin/Debug/net7.0/dotNET-AV.dll
+/home/felipe-gregue-pires/Área de trabalho/AvaliacaoIndividualDotNet/dotNET-AV/bin/Debug/net7.0/dotNET-AV.pdb
+/home/felipe-gregue-pires/Área de trabalho/AvaliacaoIndividualDotNet/dotNET-AV/obj/Debug/net7.0/dotNET-AV.csproj.AssemblyReference.cache
+/home/felipe-gregue-pires/Área de trabalho/AvaliacaoIndividualDotNet/dotNET-AV/obj/Debug/net7.0/dotNET-AV.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe-gregue-pires/Área de trabalho/AvaliacaoIndividualDotNet/dotNET-AV/obj/Debug/net7.0/dotNET-AV.AssemblyInfoInputs.cache
+/home/felipe-gregue-pires/Área de trabalho/AvaliacaoIndividualDotNet/dotNET-AV/obj/Debug/net7.0/dotNET-AV.AssemblyInfo.cs
+/home/felipe-gregue-pires/Área de trabalho/AvaliacaoIndividualDotNet/dotNET-AV/obj/Debug/net7.0/dotNET-AV.csproj.CoreCompileInputs.cache
+/home/felipe-gregue-pires/Área de trabalho/AvaliacaoIndividualDotNet/dotNET-AV/obj/Debug/net7.0/dotNET-AV.dll
+/home/felipe-gregue-pires/Área de trabalho/AvaliacaoIndividualDotNet/dotNET-AV/obj/Debug/net7.0/refint/dotNET-AV.dll
+/home/felipe-gregue-pires/Área de trabalho/AvaliacaoIndividualDotNet/dotNET-AV/obj/Debug/net7.0/dotNET-AV.pdb
+/home/felipe-gregue-pires/Área de trabalho/AvaliacaoIndividualDotNet/dotNET-AV/obj/Debug/net7.0/dotNET-AV.genruntimeconfig.cache
+/home/felipe-gregue-pires/Área de trabalho/AvaliacaoIndividualDotNet/dotNET-AV/obj/Debug/net7.0/ref/dotNET-AV.dll
